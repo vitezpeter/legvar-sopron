@@ -1,4 +1,4 @@
-# Tibszi Légvár Sopron – Bouncy Castle Rental Website
+# Tibszi Légvár Sopron
 
 A modern, mobile-first, SEO-optimised website for **Tibszi Légvár**, a bouncy castle (ugrálóvár / légvár) rental business based in Sopron, Hungary.
 
