@@ -19,8 +19,6 @@ const galleryImages = [
   { src: '/gallery/legvar_csuszda_sopronban.jpg', alt: 'Légvár csúszda Sopronban', label: 'Csúszda Sopronban' },
   { src: '/gallery/sopron-legvar.jpg', alt: 'Sopron légvár', label: 'Sopron legvár park' },
   { src: '/gallery/legvar-darts-sopron.jpg', alt: 'Légvár darts Sopron', label: 'Darts játék légvár' },
-  { src: '/gallery/X-berelheto-legvar.jpg', alt: 'Bérelhető légvár', label: 'Bérelhető szuperlegvár' },
-  { src: '/gallery/X-csuszdas-legvar.jpg', alt: 'Csúszdás légvár kölcsönzés', label: 'Csúszdás óriáslégvár' },
 ]
 
 const faqs = [
